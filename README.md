@@ -2,11 +2,6 @@
 
 My solutions to the [Advent of code 2024](https://adventofcode.com/) challenges
 
-# Languages
-This year, I will be using the following languages to solve the puzzles:
+## Languages
 
-- Days 1-5: C++
-- Days 6-10: TS/JS
-- Days 11-15: Kotlin
-- Days 16-20: C#
-- Days 21-25: Dart
+I will be using a combination of JS and C++ to solve each day, depending on what I am feeling.
