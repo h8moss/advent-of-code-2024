@@ -1,0 +1,5 @@
+##[pylyzer] failed /home/dani/advent-of-code-2024/day13/solve_model.py 1734629733 672
+.___v_desugar_1 = pyimport "__init__"
+.__init__ = pyimport "__init__"
+.linprog: Never
+.solve: |Self <: global::Indexable(K, V), V <: Structural({.__neg__ = (self: Never) -> R and (self: Never) -> R}), V <: Structural({.__neg__ = (self: Never) -> R and (self: Never) -> R}), V <: Structural({.__neg__ = (self: Never) -> R and (self: Never) -> R}), Self <: global::Indexable(K, V), K :> {1, 0}, Self <: global::Indexable(K, V), R: Type|(buttonA: Self, buttonB: Self, target: Self) -> NoneType

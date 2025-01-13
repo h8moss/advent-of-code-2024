@@ -1,0 +1,12 @@
+##[pylyzer] failed /home/dani/advent-of-code-2024/day13/p1.py 1734680665 1151
+.math = pyimport "<failure>"
+.<failure> = pyimport "<failure>"
+
+.re = pyimport "<failure>"
+
+
+.solve_model = pyimport "solve_model"
+
+.isInt: (n: Obj) -> {.math.fabs(`-`(.math.floor(.n), .n)) in {Type_v_global_641: Float | (Type_v_global_641 == 0.000000001 or (Type_v_global_641 <= 0.000000001) and (Type_v_global_641 != 0.000000001))}}
+.main: () -> NoneType
+
